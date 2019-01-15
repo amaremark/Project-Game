@@ -1,0 +1,21 @@
+{
+    "name": "emergency_compliment",
+    "version": "1.0.0",
+    "description": "Create your own version of [Emergency Compliment](http://emergencycompliment.com/) ",
+    "main": "index.js",
+    "scripts": {
+      "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "repository": {
+      "type": "git",
+      "url": "git@git.generalassemb.ly:amareabebe/emergency_compliment.git"
+    },
+    "keywords": [],
+    "author": "",
+    "license": "ISC",
+    "dependencies": {
+      "express": "^4.16.4",
+      "hbs": "^4.0.1",
+      "nodemon": "^1.18.9"
+    }
+  }
